@@ -6,6 +6,8 @@ Time spent: **24** hours spent in total
 
 This is a website I made for one of my class projects. Since I am interested in e-commerce and web development I decided to start working on a example of a website for a small business like a liqour store. I built this website using HTML, CSS and PHP. The framework I used is Bootstrap. The database management system I used is MySQL. 
 
+This is currently a project I consider to be still in progress. I will use it to test new things I learn about web development. 
+
 
 ## Video Walkthrough
 
