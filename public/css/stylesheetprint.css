@@ -1,0 +1,18 @@
+/*Stylesheet used for printing*/
+
+@media print {
+.hidden_print { 
+
+	display: none !important; 
+
+    }
+
+ body {
+
+ 	color: black;
+ 	background-image: none;
+ 	font-family: "Times New Roman", Georgia, Serif;
+ }
+
+
+}

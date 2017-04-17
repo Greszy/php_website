@@ -1,0 +1,124 @@
+/*Sets an image to cover whole background*/
+
+body { 
+  /* background: url(http://localhost:8080/store/new/public/images/corks.jpg) no-repeat center center fixed; */
+  background: url(../images/corks.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  
+}
+
+
+
+.container{
+  background-color: beige;
+  font-family: "Lucida Console", Monaco, monospace;
+
+
+}
+
+
+
+/*Makes the images in the carousel cover the element they are in*/
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+}
+
+.navbar-text > a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+#header {
+    
+    
+    color: firebrick;
+    
+}
+
+
+.titles {
+    
+   
+    color: firebrick;
+}
+
+.carousel-caption p{
+
+  color: white;
+}
+
+
+/*Selector for areas with long text*/
+p {
+  color: black;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+
+
+/*Way to set columns to equal height?*/
+/*.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}*/
+/*Start of table changes*/
+table {
+  width: auto !important;
+  color: white;
+}
+
+th {
+    background-color: burlywood;
+    text-align: center;
+}
+td {
+    background-color: sandybrown;
+}
+
+caption {
+
+  font-weight: bold;
+  font-size: 20px;
+
+}
+
+.firstth {
+  background-color: rosybrown;
+}
+
+ .cellsize tr td {
+
+  width: 30%;
+
+}
+
+/*End of table changes*/
+
+/*Selector for the Google map*/
+
+#map {
+        height: 400px;
+        width: 400px;
+        margin-bottom: 10%;
+       }
+
+#profpic {
+
+  width: 200px;
+  height: 220px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
