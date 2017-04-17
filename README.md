@@ -20,7 +20,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 While working on this project I advanced my knowledge in the follwing topics:  
 
 1. Understanding of how to use Bootstrap to create responsive websites. 
-2. How to structure modules so the code is clean and clear for other people who would like to review the source.  
+2. How to structure modules so the code is clean and clear for other people who would like to review the source. 
+
 
 ## License
 
