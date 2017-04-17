@@ -1,32 +1,17 @@
--- phpMyAdmin SQL Dump
--- version 4.0.10.18
--- https://www.phpmyadmin.net
---
--- Host: localhost:3306
--- Generation Time: Feb 21, 2017 at 04:29 PM
--- Server version: 5.6.33-cll-lve
--- PHP Version: 5.6.20
-
-
-
 
 --
 --Create database globitekw2
 --
 
-DROP DATABASE IF EXISTS `gregory_store`;
-CREATE DATABASE `gregory_store`;
+DROP DATABASE IF EXISTS `store`;
+CREATE DATABASE `store`;
 
-USE `globitekw2`;
+USE `store`;
 
 
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
 
 --
--- Database: `gregory1_store`
+-- Database: `gregory_store`
 --
 
 -- --------------------------------------------------------
